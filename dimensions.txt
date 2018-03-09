@@ -1,0 +1,8 @@
+length: .694
+gear length:.495
+axle diameter:.053
+gear diameter: .112
+small circle diameter: .279
+big circle: diameter: .411
+circle depth: .116
+
