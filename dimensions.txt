@@ -6,5 +6,6 @@ small circle diameter: .279
 big circle: diameter: .411
 circle depth: .116
 gear to end:.078
+teeth height: .0295
 
 
